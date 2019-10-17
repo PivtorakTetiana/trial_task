@@ -5,8 +5,8 @@ const autoprefixer = require('gulp-autoprefixer');
 const concat = require('gulp-concat');
 
 const cssFiles = [
-    './src/sass/fonts.scss',
-    './src/sass/main.scss'
+    'src/sass/fonts.scss',
+    'src/sass/main.scss'
 ];
 
 /*Styles compile*/
